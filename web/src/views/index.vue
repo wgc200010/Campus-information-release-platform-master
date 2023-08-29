@@ -7,7 +7,7 @@
           <div class="logo-container">
             <!-- Website Logo -->
             <span style="font-size: 35px;color: white;">Buyi</span>
-            <span class="tag-line">攀枝花学院信息交流平台</span>
+            <span class="tag-line">门头沟学院信息交流平台</span>
           </div>
           <!-- Start of Main Navigation -->
           <nav class="main-nav">

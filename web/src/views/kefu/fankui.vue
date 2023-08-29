@@ -28,7 +28,7 @@
         </el-form-item>
         <el-form-item>
           <el-button type="primary" @click="onSubmit">确定</el-button>
-          <el-button>取消</el-button>
+          <el-button  @click="$router.back(-1)">取消</el-button>
         </el-form-item>
       </el-form>
       <div v-else style="margin-top:50px">

@@ -9,14 +9,7 @@
               <h3 class="title">网站主要功能</h3>
               <div class="textwidget">
                 <p>
-                  “buyi”是攀枝花学院信息发布与交流平台，用户通过注册账号后就可以发布信息和评论，你可以在这里进行求助和帮助他人
-                </p>
-              </div>
-              <h3 class="title">公告</h3>
-              <div class="textwidget">
-                <p>
-                  禁止在本平台上发表不当言论
-                  禁止出现辱骂他人的语言，一经发现进行封号处理
+                  “buyi”是门头沟学院信息发布与交流平台，用户通过注册账号后就可以发布信息和评论，你可以在这里进行求助和帮助他人
                 </p>
               </div>
             </section>
@@ -30,14 +23,14 @@
                   <a
                     href="http://www.pzhu.edu.cn/"
                     title="Lorem ipsum dolor sit amet,"
-                    >攀枝花学院官网</a
+                    >门头沟学院官网</a
                   >
                 </li>
                 <li>
                   <a
                     href="http://jwci.pzhu.cn/jsxsd/"
                     title="Lorem ipsum dolor sit amet,"
-                    >攀枝花学院教务教务系统</a
+                    >门头沟学院教务教务系统</a
                   >
                 </li>
               </ul>
@@ -46,11 +39,12 @@
 
           <div class="span3">
             <section class="widget">
-              <h3 class="title">广告信息</h3>
+              <h3 class="title">公告</h3>
               <div id="twitter_update_list">
-                <ul>
-                  <li>No</li>
-                </ul>
+                  <p>
+                    禁止在本平台上发表不当言论
+                    禁止出现辱骂他人的语言，一经发现进行封号处理
+                  </p>
               </div>
             </section>
           </div>
@@ -66,7 +60,7 @@
                 </li>
                 <li>
                   <router-link to="/shensu" title="Lorem ipsum dolor sit amet,"
-                    >账号解封</router-link
+                    >账号申诉</router-link
                   >
                 </li>
                 <li>
